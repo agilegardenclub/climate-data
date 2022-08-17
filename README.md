@@ -2,6 +2,12 @@
 
 ## Setup
 
+Retrieve an API token for Azavea from https://app.climate.azavea.com/accounts/api/ and place it in a `.env` with the following syntax
+
+```bash
+CLIMATE_API_TOKEN={YOUR_API_TOKEN_HERE}
+```
+
 Install dependencies
 
 ```bash
